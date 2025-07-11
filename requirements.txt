@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+folium
+plotly
+streamlit-folium
+requests
+geopy
+matplotlib
+scikit-learn
+streamlit-autorefresh
